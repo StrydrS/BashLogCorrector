@@ -7,3 +7,6 @@ bash logFileCorrector.sh ./CorruptedDirectoryStructure
 
 To test: 
 bash logFileCorrector.sh ./ExampleInputs/test01_in/
+
+
+Assignment completed as part of Colorado School of Mines' Systems Programming course, CS210. 
